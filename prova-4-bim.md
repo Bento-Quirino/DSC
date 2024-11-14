@@ -8,7 +8,7 @@ Este repositório contém 10 projetos simples usando Python e bibliotecas de IA/
 | ------- | --------- | ----------- | ------------------------- |
 | 1. Análise de Sentimentos | Analisar a polaridade de sentimentos de textos | `textblob` | `pip install textblob` |
 | 2. Detecção de Face em Imagens | Detectar rostos em imagens | `face_recognition`, `opencv-python` | `pip install face_recognition opencv-python` |
-| 3. Classificação de Imagens com Keras | Classificar imagens simples em categorias (ex: cães e gatos) | `tensorflow`, `keras` | `pip install tensorflow keras` |
+| 3. Detecção de Face em Imagens* (ao invés de tensorflow com keras) | Detectar rostos em imagens | `face_recognition`, `opencv-python` | `pip install face_recognition opencv-python` |
 | 4. Gerador de Texto com Markov | Gerar frases baseadas em cadeias de Markov | `markovify` | `pip install markovify` |
 | 5. Análise de Tópicos | Identificar tópicos principais em textos grandes | `gensim`, `nltk` | `pip install gensim nltk` |
 | 6. Classificação de Notícias | Classificar notícias em categorias (ex: política, esportes) | `sklearn` | `pip install scikit-learn` |
